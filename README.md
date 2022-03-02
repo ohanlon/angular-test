@@ -1,4 +1,4 @@
-# DxcSample
+# Sample
 
 ## Exercise
 
